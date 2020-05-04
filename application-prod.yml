@@ -1,2 +1,4 @@
 my:
     greetings: FRom Prod properties(Centralized REpo)
+spring.cloud.conflig.profile: prod
+
